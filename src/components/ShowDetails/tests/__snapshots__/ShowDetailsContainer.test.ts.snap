@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShowDetailsContainer renders correctly 1`] = `
+<div
+  class="show-page"
+  data-test="show-page"
+>
+  <b-container-stub
+    data-test="show-page-container"
+    fluid="true"
+    tag="div"
+  >
+    <div>
+      <show-details-stub
+        data-test="show-page-details"
+        show="[object Object]"
+      />
+    </div>
+  </b-container-stub>
+</div>
+`;
